@@ -11,12 +11,14 @@ use "model.predict([input array you get after preprocessing your data using the 
 
 Size of trained model is approx 450MB, so we can't upload it on github (Gdrive link is provided below)
 
-Then you have to use another function "final_res" available in "support.py" using that function you will get the final output as 1 for positive feeling and 0 for negative.
+Then you have to use another function "decode_sentiment" available in "support.py" using that function you will get the final output as 1 for positive feeling and 0 for negative.
 
 dont forgot to add "globe_6B_300.txt" file with support.py python file.
 
 Links:
+
 Model =
+
 globe_6B_300.txt = https://www.kaggle.com/datasets/thanakomsn/glove6b300dtxt 
 
 

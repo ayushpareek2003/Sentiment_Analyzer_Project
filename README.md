@@ -17,6 +17,8 @@ dont forgot to add "globe_6B_300.txt" file with support.py python file.
 
 Links:
 
+DataSet= http://cs.stanford.edu/people/alecmgo/trainingandtestdata.zip
+
 Model = https://drive.google.com/file/d/1vUm11Bp4YRUZEuHpQpjmIN2M85CTWcXg/view?usp=sharing
 
 globe_6B_300.txt = https://www.kaggle.com/datasets/thanakomsn/glove6b300dtxt 
